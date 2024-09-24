@@ -40,15 +40,18 @@ phi''[x]+(B[x]-A[x]^2/4-A'[x]/2)phi[x]==0.
 
 Case: Q(x)==x
 
-stokes01.JPG
+![stokes01](https://github.com/user-attachments/assets/c96448e4-a152-4657-b8ab-f6f8d48418c9)
+
 
 Case: Q(x)==x^3+1
 
-stokes02.JPG
+![stokes02](https://github.com/user-attachments/assets/42e4fcb2-8971-4e56-bdd3-e52275f4a52b)
+
 
 Case: Q(x)==-x^2+2
 
-stokes03.JPG
+![stokes03](https://github.com/user-attachments/assets/af501797-1021-4266-bf45-32f9777027da)
+
 
 This code is due to the precept of Prof. T. Aoki (Kinki Univ).
 

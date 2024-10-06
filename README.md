@@ -5,7 +5,7 @@ Drawing Stokes Lines on complex plane
 We consider the following ordinary differential equation(*)(**) on the complex plane:
 
 - u''[x] + eta Q[x]u[x]==0,
-- 
+  
 where eta is usually very large number.
 
 Stokes lines start from the turning points "a" that satisfy Q[a]==0.
